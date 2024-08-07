@@ -1,0 +1,15 @@
+body{
+    background: whitesmoke;
+    color: whitesmoke;
+    font-family: 'Rametto One',cursive;
+}
+.adv{
+    text-align: center;
+    background: #35654d;
+    border: 5px solid  #A3BC71;
+}
+.bait{
+    border: 2px solid #A3BC71;
+    padding: 10px 5px;
+    background: #8F4737;
+}
